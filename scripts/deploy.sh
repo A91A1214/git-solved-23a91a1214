@@ -1,1 +1,1 @@
-main deploy
+base deploy

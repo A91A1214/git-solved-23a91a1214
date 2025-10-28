@@ -1,1 +1,1 @@
-main architecture
+base architecture
