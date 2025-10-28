@@ -1,1 +1,1 @@
-dev architecture
+base architecture

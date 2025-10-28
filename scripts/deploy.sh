@@ -1,1 +1,1 @@
-dev deploy
+base deploy
